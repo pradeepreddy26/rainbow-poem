@@ -6,4 +6,6 @@ red
 orange
 green
 yellow
+red
 these are the colors of my poem. 
+checking again
